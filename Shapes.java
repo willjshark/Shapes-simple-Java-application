@@ -1,5 +1,5 @@
 /*
- * Shapes
+ * Shapes William Sharkey
  * Version 1.0.0
  * 20/07/21
  */
